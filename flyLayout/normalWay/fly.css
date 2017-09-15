@@ -1,0 +1,15 @@
+.sub {
+    width: 190px;
+    float: left;
+}
+.main {
+    width: 550px;
+    float: left;
+}
+.extra {
+    width: 190px;
+    float: left;
+}
+.border {
+    border: 2px solid;
+}
